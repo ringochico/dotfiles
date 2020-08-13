@@ -1,15 +1,27 @@
 {
-  "installed_packages":
-  [
-    "A File Icon",
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"BeautifyRuby",
+		"Browser Sync",
+		"Canvas Snippets",
+		"ColorPick",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"LiveReload",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-eslint"
+	]
 }
